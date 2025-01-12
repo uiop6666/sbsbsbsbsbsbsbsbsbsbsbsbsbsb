@@ -15,15 +15,15 @@ about:Label("你好")
 about:Label("本脚本为V1版本")
 about:Label("支持俄亥俄州")
 about:Button("点我复制作者QQ",function()
-    setclipboard("928950173")
+    setclipboard("3989667656")
 end)
 
 about:Button("点我复制RK脚本官方群",function()
-    setclipboard("1003591865")
+    setclipboard("1018864174")
 end)
 
 about:Button("点我复制RK脚本二群",function()
-    setclipboard("1015840930")
+    setclipboard("114514")
 end)
 
 local about = UITab84:section("『介绍』",true)
